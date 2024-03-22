@@ -11,6 +11,15 @@ The dataset is split into three parts:
 - mid-CSW
 - high-CSW
 
+## Data Statistics
+
+| Split    | # utts | Duration  | En-ratio | SPF  | CMI   |
+|----------|--------|-----------|----------|------|-------|
+| low-CSW  | 401    | 50.68 min | <2 %     | 0.02 | 0.013 |
+| mid-CSW  | 553    | 75.59 min | 2-9 %    | 0.07 | 0.040 |
+| high-CSW | 602    | 78.85 min | >9 %     | 0.16 | 0.113 |
+
+
 ## Data Download
 
 To download the dataset, you can use the provided download scripts located in the `download-mng` directory. Please note that the licensing for this data is handled by Google, which is the host of the YouTube website.
