@@ -1,6 +1,6 @@
 # DECM Dataset
 
-This repository contains data related to the Paper DECM.
+This repository contains data related to the Paper: **DECM: Evaluating Bilingual ASR Performance on a Code-switching/mixing Benchmark**
 
 ## About the Dataset
 
